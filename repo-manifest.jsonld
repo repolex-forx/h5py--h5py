@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/h5py/h5py/commit/f5918a1cf81cfac6656c77083f0d255fd985f625",
       "git:hexsha": "f5918a1cf81cfac6656c77083f0d255fd985f625",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/h5py/h5py/commit/4857a6692396d9c574f3b294fe9fe078a155c872",
